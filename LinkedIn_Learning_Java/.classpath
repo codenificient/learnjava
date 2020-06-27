@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 01/01_05/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_02/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_02/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_03/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_03/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_04/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_04/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_05/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_05/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_06/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_06/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_07/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_07/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_08/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_08/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 02/02_10/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_02/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_02/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_03/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_03/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_04/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_04/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_05/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_05/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_06/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_06/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_08/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 03/03_08/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_02/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_02/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_03/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_03/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_04/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_04/end/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_06/begin/src"/>
+	<classpathentry kind="src" path="Exercise Files/Chapter 04/04_06/end/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
